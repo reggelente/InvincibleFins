@@ -1,4 +1,4 @@
-# InvincibleFins
+# Invincible Fins
 
 A game recommended for younger kids. You control a little fish that just got back to the ocean from a thrown away aquarium. Explore the colorful underwater world, collect treasures, avoid dangers and find your new home.
 
@@ -25,4 +25,3 @@ A game recommended for younger kids. You control a little fish that just got bac
 - One helps to spot treasures
 - One always swims around you so you can find yourself more easily on the screen
 - One is controllable via the W, A, S, D keys or a second controller, but it can only interact with the beach ball - this allows 2 children to play together or a parent to play with their child
-
