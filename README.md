@@ -1,6 +1,5 @@
-# Invincible Fins
-
 ![headerImage](assets/images/header.png "Header")
+# Invincible Fins
 
 A game recommended for younger kids. You control a little fish that just got back to the ocean from a thrown away aquarium. Explore the colorful underwater world, collect treasures, avoid dangers and find your new home.
 
@@ -13,10 +12,10 @@ A game recommended for younger kids. You control a little fish that just got bac
 - Playable by controller or keyboard
 
 [![screenshot1](assets/images/small_screenshot_1.png "Screenshot 1")](assets/images/screenshot_1.png)
-![screenshot2](assets/images/small_screenshot_2.png "Screenshot 2")
-![screenshot3](assets/images/small_screenshot_3.png "Screenshot 3")
-![screenshot4](assets/images/small_screenshot_4.png "Screenshot 4")
-![screenshot5](assets/images/small_screenshot_5.png "Screenshot 5")
+[![screenshot2](assets/images/small_screenshot_2.png "Screenshot 2")](assets/images/screenshot_2.png)
+[![screenshot3](assets/images/small_screenshot_3.png "Screenshot 3")](assets/images/screenshot_3.png)
+[![screenshot4](assets/images/small_screenshot_4.png "Screenshot 4")](assets/images/screenshot_4.png)
+[![screenshot5](assets/images/small_screenshot_5.png "Screenshot 5")](assets/images/screenshot_5.png)
 
 ### Controls
 
