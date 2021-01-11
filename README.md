@@ -11,7 +11,7 @@ A game recommended for younger kids. You control a little fish that just got bac
 - Secret Area
 - Playable by controller or keyboard
 
-___
+\
 [![screenshot1](assets/images/small_screenshot_1.png "Screenshot 1")](assets/images/screenshot_1.png)
 [![screenshot2](assets/images/small_screenshot_2.png "Screenshot 2")](assets/images/screenshot_2.png)
 [![screenshot3](assets/images/small_screenshot_3.png "Screenshot 3")](assets/images/screenshot_3.png)
@@ -33,3 +33,6 @@ ___
 - One helps to spot treasures
 - One always swims around you so you can find yourself more easily on the screen
 - One is controllable via the W, A, S, D keys or a second controller, but it can only interact with the beach ball - this allows 2 children to play together or a parent to play with their child
+
+___
+### Developed by [Reggelente](https://reggelente.com)
