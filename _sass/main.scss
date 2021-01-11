@@ -7,8 +7,11 @@ body {
   font-family: lato, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, sans-serif;
   font-weight: normal;
   font-size: x-large;
+  margin: 0;
 }
 
 .contentArea {
   width: 80%;
+  max-width: 800px;
+  min-width: 640px;
 }
