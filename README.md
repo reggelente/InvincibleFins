@@ -1,5 +1,7 @@
 # Invincible Fins
 
+![screenshot_1](assets/images/screenshot_1.png "Screenshot 1")
+
 A game recommended for younger kids. You control a little fish that just got back to the ocean from a thrown away aquarium. Explore the colorful underwater world, collect treasures, avoid dangers and find your new home.
 
 - No menus, just hit the play button (Space / A on controller) and continue where you left off
