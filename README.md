@@ -37,3 +37,4 @@ A game recommended for younger kids. You control a little fish that just got bac
 
 ___
 ### Developed by [Reggelente](https://reggelente.com)
+### Music by [Humming Composer](https://www.hummingcomposer.com)
