@@ -12,7 +12,7 @@ A game recommended for younger kids. You control a little fish that just got bac
 - Secret Area
 - Playable by controller or keyboard on PC, and by touch controls on iPhone / iPad
 
-[![appStoreIcon](assets/images/app_store.png "Screenshot 1")](https://apps.apple.com/us/app/invincible-fins/id1547791609?itsct=apps_box_badge&amp;itscg=30200)
+[![appStoreIcon](assets/images/app_store.png "Invincible Fins")](https://apps.apple.com/us/app/invincible-fins/id1547791609?itsct=apps_box_badge&amp;itscg=30200)
 
 <a href="https://apps.apple.com/us/app/invincible-fins/id1547791609?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1618358400&h=d05cc0adb37701b630e15200071f8439" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
