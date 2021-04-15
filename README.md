@@ -12,7 +12,7 @@ A game recommended for younger kids. You control a little fish that just got bac
 - Secret Area
 - Playable by controller or keyboard
 
-<a href="https://apps.apple.com/us/app/invincible-fins/id1547791609?itscg=30200&amp;itsct=apps_box_appicon" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/20/28/05/20280524-92f1-ac18-57b1-8806fbb74d67/AppIcon-1x_U007emarketing-0-10-0-85-220.png/540x540bb.jpg&h=dbce24f0fb13a4942f1edd5da5c6c1f0" alt="Invincible Fins" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>
+[![appStoreIcon](assets/images/app_store.png "Screenshot 1")](https://apps.apple.com/us/app/invincible-fins/id1547791609?itsct=apps_box_badge&amp;itscg=30200)
 
 <a href="https://apps.apple.com/us/app/invincible-fins/id1547791609?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1618358400&h=d05cc0adb37701b630e15200071f8439" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
