@@ -33,7 +33,7 @@ A game recommended for younger kids. You control a little fish that just got bac
 - Blow Bubble - Space button / A on Controller while not moving
 - Drop Item - Enter button / B on Controller
 - Change Player Character - X button / X on Controller (only in secret area while over another fish)
-- Hide - Automatic near at items / plants at the bottom of the ocean
+- Hide - Automatic close to items / plants at the bottom of the ocean
 
 ### There are three little fish that follow you
 
