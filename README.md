@@ -4,13 +4,13 @@
 
 A game recommended for younger kids. You control a little fish that just got back to the ocean from a thrown away aquarium. Explore the colorful underwater world, collect treasures, avoid dangers and find your new home.
 
-- No menus, just hit the play button (Space / A on controller) and continue where you left off
-- Saving is automatic between scenes and upon exit (Alt-F4 or Esc)
+- No menus, just hit the play button and continue where you left off
+- Saving is automatic between scenes and upon exit
 - No violence, even the sharks are not deadly, they just make the player flee home. There is a penalty though, you lose all the collected treasures from the inventory.
 - No tutorials, you have to figure out what to do - watch out for indications shown by Ollie, the crab
 - No rush, play at your own pace; there is no time limit 
 - Secret Area
-- Playable by controller or keyboard
+- Playable by controller or keyboard on PC, and by touch controls on iPhone / iPad
 
 [![appStoreIcon](assets/images/app_store.png "Screenshot 1")](https://apps.apple.com/us/app/invincible-fins/id1547791609?itsct=apps_box_badge&amp;itscg=30200)
 
@@ -33,6 +33,7 @@ A game recommended for younger kids. You control a little fish that just got bac
 - Blow Bubble - Space button / A on Controller while not moving
 - Drop Item - Enter button / B on Controller
 - Change Player Character - X button / X on Controller (only in secret area while over another fish)
+- Hide - Automatic near at items / plants at the bottom of the ocean
 
 ### There are three little fish that follow you
 
